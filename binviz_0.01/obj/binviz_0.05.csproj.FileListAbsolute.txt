@@ -1,0 +1,290 @@
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\obj\Debug\binviz_0.01.exe
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\obj\Debug\binviz_0.01.pdb
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmEncode.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmDotPlot.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmFrequency.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmNavigator.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmProgressBar.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmStats.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmBitPlot.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmMain.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmStrings.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmText.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmByteCloud.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\obj\Debug\binviz_0._1.Properties.Resources.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\obj\Debug\binviz_0.05.csproj.GenerateResource.Cache
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\bin\Debug\binviz_0.01.exe
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.22 Airport\binviz_0.01\bin\Debug\binviz_0.01.pdb
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\obj\Debug\binviz_0.01.exe
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\obj\Debug\binviz_0.01.pdb
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmEncode.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmDotPlot.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmFrequency.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmNavigator.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmProgressBar.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmStats.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmBitPlot.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmMain.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmStrings.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmText.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\obj\Debug\binviz_0._1.FrmByteCloud.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\obj\Debug\binviz_0._1.Properties.Resources.resources
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\obj\Debug\binviz_0.05.csproj.GenerateResource.Cache
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\bin\Debug\binviz_0.01.exe
+C:\Documents and Settings\name\Desktop\200804RSA\binviz_0.23 Airport\binviz_0.01\bin\Debug\binviz_0.01.pdb
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\obj\Debug\binviz_0.01.exe
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\obj\Debug\binviz_0.01.pdb
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\obj\Debug\binviz_0._1.FrmEncode.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\obj\Debug\binviz_0._1.FrmDotPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\obj\Debug\binviz_0._1.FrmFrequency.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\obj\Debug\binviz_0._1.FrmNavigator.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\obj\Debug\binviz_0._1.FrmProgressBar.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\obj\Debug\binviz_0._1.FrmStats.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\obj\Debug\binviz_0._1.FrmBitPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\obj\Debug\binviz_0._1.FrmMain.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\obj\Debug\binviz_0._1.FrmStrings.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\obj\Debug\binviz_0._1.FrmText.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\obj\Debug\binviz_0._1.FrmByteCloud.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\obj\Debug\binviz_0._1.Properties.Resources.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\obj\Debug\binviz_0.05.csproj.GenerateResource.Cache
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\bin\Debug\binviz_0.01.exe
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.24\binviz_0.01\bin\Debug\binviz_0.01.pdb
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\obj\Debug\binviz_0.01.exe
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\obj\Debug\binviz_0.01.pdb
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\obj\Debug\binviz_0._1.FrmEncode.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\obj\Debug\binviz_0._1.FrmDotPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\obj\Debug\binviz_0._1.FrmFrequency.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\obj\Debug\binviz_0._1.FrmNavigator.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\obj\Debug\binviz_0._1.FrmProgressBar.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\obj\Debug\binviz_0._1.FrmStats.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\obj\Debug\binviz_0._1.FrmBitPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\obj\Debug\binviz_0._1.FrmMain.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\obj\Debug\binviz_0._1.FrmStrings.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\obj\Debug\binviz_0._1.FrmText.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\obj\Debug\binviz_0._1.FrmByteCloud.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\obj\Debug\binviz_0._1.Properties.Resources.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\obj\Debug\binviz_0.05.csproj.GenerateResource.Cache
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\bin\Debug\binviz_0.01.exe
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.25\binviz_0.01\bin\Debug\binviz_0.01.pdb
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\obj\Debug\binviz_0.01.exe
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\obj\Debug\binviz_0.01.pdb
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\obj\Debug\binviz_0._1.FrmEncode.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\obj\Debug\binviz_0._1.FrmDotPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\obj\Debug\binviz_0._1.FrmFrequency.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\obj\Debug\binviz_0._1.FrmNavigator.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\obj\Debug\binviz_0._1.FrmProgressBar.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\obj\Debug\binviz_0._1.FrmStats.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\obj\Debug\binviz_0._1.FrmBitPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\obj\Debug\binviz_0._1.FrmMain.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\obj\Debug\binviz_0._1.FrmStrings.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\obj\Debug\binviz_0._1.FrmText.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\obj\Debug\binviz_0._1.FrmByteCloud.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\obj\Debug\binviz_0._1.Properties.Resources.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\obj\Debug\binviz_0.05.csproj.GenerateResource.Cache
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\bin\Debug\binviz_0.01.exe
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.26\binviz_0.01\bin\Debug\binviz_0.01.pdb
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\obj\Debug\binviz_0.01.exe
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\obj\Debug\binviz_0.01.pdb
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\obj\Debug\binviz_0._1.FrmEncode.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\obj\Debug\binviz_0._1.FrmDotPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\obj\Debug\binviz_0._1.FrmFrequency.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\obj\Debug\binviz_0._1.FrmNavigator.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\obj\Debug\binviz_0._1.FrmPresence.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\obj\Debug\binviz_0._1.FrmProgressBar.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\obj\Debug\binviz_0._1.FrmStats.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\obj\Debug\binviz_0._1.FrmBitPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\obj\Debug\binviz_0._1.FrmMain.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\obj\Debug\binviz_0._1.FrmStrings.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\obj\Debug\binviz_0._1.FrmText.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\obj\Debug\binviz_0._1.FrmByteCloud.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\obj\Debug\binviz_0._1.Properties.Resources.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\obj\Debug\binviz_0.05.csproj.GenerateResource.Cache
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\bin\Debug\binviz_0.01.exe
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.27\binviz_0.01\bin\Debug\binviz_0.01.pdb
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\binviz_0.01.exe
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\binviz_0.01.pdb
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\binviz_0._1.FrmEncode.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\binviz_0._1.FrmDotPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\binviz_0._1.FrmFrequency.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\binviz_0._1.FrmNavigator.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\binviz_0._1.FrmPresence.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\binviz_0._1.FrmProgressBar.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\binviz_0._1.FrmStats.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\binviz_0._1.FrmMain.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\binviz_0._1.FrmStrings.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\binviz_0._1.FrmText.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\binviz_0._1.FrmByteCloud.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\binviz_0._1.Properties.Resources.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\binviz_0.05.csproj.GenerateResource.Cache
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\binviz_0._1.FrmRGBPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\obj\Debug\binviz_0._1.FrmBytePlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\bin\Debug\binviz_0.01.exe
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.28\binviz_0.01\bin\Debug\binviz_0.01.pdb
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\binviz_0.01.exe
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\binviz_0.01.pdb
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\binviz_0._1.FrmEncode.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\binviz_0._1.FrmDotPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\binviz_0._1.FrmFrequency.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\binviz_0._1.FrmNavigator.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\binviz_0._1.FrmPresence.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\binviz_0._1.FrmProgressBar.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\binviz_0._1.FrmRGBPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\binviz_0._1.FrmStats.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\binviz_0._1.FrmBytePlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\binviz_0._1.FrmMain.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\binviz_0._1.FrmStrings.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\binviz_0._1.FrmText.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\binviz_0._1.FrmByteCloud.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\binviz_0._1.Properties.Resources.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\obj\Debug\binviz_0.05.csproj.GenerateResource.Cache
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\bin\Debug\binviz_0.01.exe
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.29\binviz_0.01\bin\Debug\binviz_0.01.pdb
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0.01.exe
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0.01.pdb
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\bin\Debug\binviz_0.01.exe
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\bin\Debug\binviz_0.01.pdb
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0._1.FrmEncode.resources
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0._1.FrmDotPlot.resources
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0._1.FrmFrequency.resources
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0._1.FrmNavigator.resources
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0._1.FrmPresence.resources
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0._1.FrmProgressBar.resources
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0._1.FrmRGBPlot.resources
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0._1.FrmStats.resources
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0._1.FrmBytePlot.resources
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0._1.FrmMain.resources
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0._1.FrmStrings.resources
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0._1.FrmText.resources
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0._1.FrmByteCloud.resources
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0._1.Properties.Resources.resources
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0.05.csproj.GenerateResource.Cache
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0._1.FrmMemoryMap.resources
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0._1.FrmAddFilter.resources
+C:\Documents and Settings\name\Desktop\binviz_0.30\binviz_0.01\obj\Debug\binviz_0._1.FrmBitPlot.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0.01.exe
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0.01.pdb
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0._1.FrmAddFilter.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0._1.FrmBitPlot.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0._1.FrmMemoryMap.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0._1.FrmEncode.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0._1.FrmDotPlot.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0._1.FrmFrequency.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0._1.FrmNavigator.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0._1.FrmPresence.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0._1.FrmProgressBar.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0._1.FrmRGBPlot.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0._1.FrmStats.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0._1.FrmBytePlot.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0._1.FrmMain.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0._1.FrmStrings.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0._1.FrmText.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0._1.FrmByteCloud.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0._1.Properties.Resources.resources
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\obj\Debug\binviz_0.05.csproj.GenerateResource.Cache
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\bin\Debug\binviz_0.01.exe
+C:\Documents and Settings\name\Desktop\binviz_0.31\binviz_0.01\bin\Debug\binviz_0.01.pdb
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0.01.exe
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0.01.pdb
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\bin\Debug\binviz_0.01.exe
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\bin\Debug\binviz_0.01.pdb
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0._1.FrmAddFilter.resources
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0._1.FrmBitPlot.resources
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0._1.FrmMemoryMap.resources
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0._1.FrmEncode.resources
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0._1.FrmDotPlot.resources
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0._1.FrmFrequency.resources
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0._1.FrmNavigator.resources
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0._1.FrmPresence.resources
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0._1.FrmProgressBar.resources
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0._1.FrmRGBPlot.resources
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0._1.FrmStats.resources
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0._1.FrmBytePlot.resources
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0._1.FrmMain.resources
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0._1.FrmStrings.resources
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0._1.FrmText.resources
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0._1.FrmByteCloud.resources
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0._1.Properties.Resources.resources
+C:\Documents and Settings\name\Desktop\binviz_0.34\binviz_0.01\obj\Debug\binviz_0.05.csproj.GenerateResource.Cache
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0.01.exe
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0.01.pdb
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.FrmAddFilter.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.frmAttractor.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.FrmBitPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.FrmMemoryMap.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.FrmEncode.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.FrmDotPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.FrmFrequency.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.FrmNavigator.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.FrmPresence.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.FrmProgressBar.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.FrmRGBPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.FrmStats.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.FrmBytePlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.FrmMain.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.FrmStrings.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.FrmText.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.FrmByteCloud.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0._1.Properties.Resources.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\obj\Debug\binviz_0.05.csproj.GenerateResource.Cache
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\bin\Debug\binviz_0.01.exe
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.35\binviz_0.01\bin\Debug\binviz_0.01.pdb
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0.01.exe
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0.01.pdb
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\bin\Debug\binviz_0.01.exe
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\bin\Debug\binviz_0.01.pdb
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.FrmAddFilter.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.frmAttractor.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.FrmBitPlot.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.FrmMemoryMap.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.FrmEncode.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.FrmDotPlot.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.FrmFrequency.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.FrmNavigator.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.FrmPresence.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.FrmProgressBar.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.FrmRGBPlot.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.FrmStats.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.FrmBytePlot.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.FrmMain.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.FrmStrings.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.FrmText.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.FrmByteCloud.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0._1.Properties.Resources.resources
+C:\Documents and Settings\name\Desktop\binviz_0.36\binviz_0.01\obj\Debug\binviz_0.05.csproj.GenerateResource.Cache
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0.01.exe
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0.01.pdb
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\bin\Debug\binviz_0.01.exe
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\bin\Debug\binviz_0.01.pdb
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.FrmAddFilter.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.frmAttractor.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.FrmBitPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.FrmMemoryMap.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.FrmEncode.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.FrmDotPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.FrmFrequency.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.FrmNavigator.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.FrmPresence.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.FrmProgressBar.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.FrmRGBPlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.FrmStats.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.FrmBytePlot.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.FrmMain.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.FrmStrings.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.FrmText.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.FrmByteCloud.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0._1.Properties.Resources.resources
+C:\Documents and Settings\rumint\Desktop\binvis software\binviz_0.37\binviz_0.01\obj\Debug\binviz_0.05.csproj.GenerateResource.Cache

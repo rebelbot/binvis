@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{60FE6B2B-E1B1-4611-940F-5BF003AF2784}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>binviz_0._1</RootNamespace>
+    <AssemblyName>binviz_0.01</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System.Deployment" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAddFilter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddFilter.Designer.cs">
+      <DependentUpon>FrmAddFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAttractor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAttractor.Designer.cs">
+      <DependentUpon>frmAttractor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBitPlot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBitPlot.Designer.cs">
+      <DependentUpon>FrmBitPlot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMemoryMap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMemoryMap.Designer.cs">
+      <DependentUpon>FrmMemoryMap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRGBPlot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRGBPlot.Designer.cs">
+      <DependentUpon>FrmRGBPlot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFrequency.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFrequency.Designer.cs">
+      <DependentUpon>FrmFrequency.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPresence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPresence.Designer.cs">
+      <DependentUpon>FrmPresence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStrings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStrings.Designer.cs">
+      <DependentUpon>FrmStrings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEncode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEncode.Designer.cs">
+      <DependentUpon>FrmEncode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDotPlot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDotPlot.Designer.cs">
+      <DependentUpon>FrmDotPlot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNavigator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNavigator.Designer.cs">
+      <DependentUpon>FrmNavigator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProgressBar.Designer.cs">
+      <DependentUpon>FrmProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStats.Designer.cs">
+      <DependentUpon>FrmStats.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBytePlot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBytePlot.Designer.cs">
+      <DependentUpon>FrmBytePlot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmText.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmText.Designer.cs">
+      <DependentUpon>FrmText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmByteCloud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmByteCloud.Designer.cs">
+      <DependentUpon>FrmByteCloud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProcessMemory.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAddFilter.resx">
+      <DependentUpon>FrmAddFilter.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAttractor.resx">
+      <DependentUpon>frmAttractor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBitPlot.resx">
+      <DependentUpon>FrmBitPlot.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMemoryMap.resx">
+      <DependentUpon>FrmMemoryMap.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEncode.resx">
+      <DependentUpon>FrmEncode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDotPlot.resx">
+      <DependentUpon>FrmDotPlot.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFrequency.resx">
+      <DependentUpon>FrmFrequency.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNavigator.resx">
+      <DependentUpon>FrmNavigator.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPresence.resx">
+      <DependentUpon>FrmPresence.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProgressBar.resx">
+      <DependentUpon>FrmProgressBar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRGBPlot.resx">
+      <DependentUpon>FrmRGBPlot.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStats.resx">
+      <DependentUpon>FrmStats.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBytePlot.resx">
+      <DependentUpon>FrmBytePlot.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStrings.resx">
+      <DependentUpon>FrmStrings.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmText.resx">
+      <DependentUpon>FrmText.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmByteCloud.resx">
+      <DependentUpon>FrmByteCloud.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <MonoDevelop>
+      <Properties InternalTargetFrameworkVersion="3.5" />
+    </MonoDevelop>
+  </ProjectExtensions>
+</Project>
