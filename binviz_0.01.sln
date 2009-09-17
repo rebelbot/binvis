@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binviz_0.05", "binviz_0.01\binviz_0.05.csproj", "{60FE6B2B-E1B1-4611-940F-5BF003AF2784}"
 EndProject
 Global
