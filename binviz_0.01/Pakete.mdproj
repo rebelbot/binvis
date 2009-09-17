@@ -2,10 +2,13 @@
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ItemType>PackagingProject</ItemType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7299929E-E750-476E-8701-E2C6615424A8}</ProjectGuid>
     <Packages>
       <Packages xmlns="">
-        <Package name="Linux Binaries">
-          <Builder targetFile="binviz_0.05.tar.gz" platform="Linux" configuration="Debug" ctype="BinariesZipPackageBuilder">
+        <Package name="Bins">
+          <Builder targetFile="..\..\BinVis_Monoed\binviz_0.05.tar.gz" platform="Linux" configuration="Debug" ctype="BinariesZipPackageBuilder">
             <RootEntry path="binviz_0.05.csproj" />
           </Builder>
         </Package>

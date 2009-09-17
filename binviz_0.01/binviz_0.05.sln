@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 9.00
 # Visual Studio 2005
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binviz_0.05", "binviz_0.05.csproj", "{60FE6B2B-E1B1-4611-940F-5BF003AF2784}"
 EndProject
-Project("{9344bdbb-3e7f-41fc-a0dd-8665d75ee146}") = "Pakete", "Pakete.mdproj", "{44DC5E4D-64DD-473C-8497-60DEABD78210}"
+Project("{9344bdbb-3e7f-41fc-a0dd-8665d75ee146}") = "Pakete", "Pakete.mdproj", "{ED9DF180-F4FB-4681-9707-937FD6799430}"
+EndProject
+Project("{9344bdbb-3e7f-41fc-a0dd-8665d75ee146}") = "Pakete", "Pakete.mdproj", "{7299929E-E750-476E-8701-E2C6615424A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,18 +13,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{44DC5E4D-64DD-473C-8497-60DEABD78210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{44DC5E4D-64DD-473C-8497-60DEABD78210}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{44DC5E4D-64DD-473C-8497-60DEABD78210}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{44DC5E4D-64DD-473C-8497-60DEABD78210}.Release|Any CPU.Build.0 = Release|Any CPU
 		{60FE6B2B-E1B1-4611-940F-5BF003AF2784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{60FE6B2B-E1B1-4611-940F-5BF003AF2784}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60FE6B2B-E1B1-4611-940F-5BF003AF2784}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60FE6B2B-E1B1-4611-940F-5BF003AF2784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7299929E-E750-476E-8701-E2C6615424A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7299929E-E750-476E-8701-E2C6615424A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7299929E-E750-476E-8701-E2C6615424A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7299929E-E750-476E-8701-E2C6615424A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED9DF180-F4FB-4681-9707-937FD6799430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9DF180-F4FB-4681-9707-937FD6799430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED9DF180-F4FB-4681-9707-937FD6799430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9DF180-F4FB-4681-9707-937FD6799430}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		name = binviz_0.05
 		version = 0.1
 		StartupItem = binviz_0.05.csproj
+		name = binviz_0.05
 	EndGlobalSection
 EndGlobal
