@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="binviz_0.01">
+</Property><Property Name="Solution File" Value="C:\Users\wishi\Source\binvis\binviz_0.01.sln">
+</Property><Property Name="User Options File" Value="C:\Users\wishi\Source\binvis\binviz_0.01.suo">
+</Property><Property Name="Date" Value="Mittwoch, 6. Oktober 2010">
+</Property><Property Name="Time" Value="10:20">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="binviz_0.01.sln" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01.sln">
+</Event><Event ErrorLevel="0" Project="" Source="binviz_0.01.suo" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01.suo">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\binviz_0.05.csproj" Description="Project file successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\binviz_0.05.csproj">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\binviz_0.05.csproj.user" Description="Project user file successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\binviz_0.05.csproj.user">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmAddFilter.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmAddFilter.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmAddFilter.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmAddFilter.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\frmAttractor.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\frmAttractor.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\frmAttractor.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\frmAttractor.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmBitPlot.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmBitPlot.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmBitPlot.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmBitPlot.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmMemoryMap.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmMemoryMap.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmMemoryMap.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmMemoryMap.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmRGBPlot.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmRGBPlot.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmRGBPlot.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmRGBPlot.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmFrequency.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmFrequency.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmFrequency.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmFrequency.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmPresence.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmPresence.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmPresence.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmPresence.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmStrings.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmStrings.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmStrings.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmStrings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmEncode.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmEncode.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmEncode.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmEncode.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmDotPlot.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmDotPlot.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmDotPlot.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmDotPlot.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmNavigator.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmNavigator.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmNavigator.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmNavigator.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmProgressBar.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmProgressBar.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmProgressBar.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmProgressBar.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmStats.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmStats.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmStats.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmStats.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmBytePlot.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmBytePlot.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmBytePlot.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmBytePlot.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmMain.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmMain.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmMain.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmText.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmText.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmText.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmText.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmByteCloud.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmByteCloud.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmByteCloud.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmByteCloud.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\ProcessMemory.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\ProcessMemory.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\Program.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\Program.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\Properties\Settings1.Designer.cs" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\Properties\Settings1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\Properties\Settings.settings" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmAddFilter.resx" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmAddFilter.resx">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\frmAttractor.resx" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\frmAttractor.resx">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmBitPlot.resx" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmBitPlot.resx">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmMemoryMap.resx" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmMemoryMap.resx">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmEncode.resx" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmEncode.resx">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmDotPlot.resx" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmDotPlot.resx">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmFrequency.resx" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmFrequency.resx">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmNavigator.resx" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmNavigator.resx">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmPresence.resx" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmPresence.resx">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmProgressBar.resx" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmProgressBar.resx">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmRGBPlot.resx" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmRGBPlot.resx">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmStats.resx" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmStats.resx">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmBytePlot.resx" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmBytePlot.resx">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmMain.resx" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmMain.resx">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmStrings.resx" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmStrings.resx">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmText.resx" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmText.resx">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\FrmByteCloud.resx" Description="File successfully backed up as C:\Users\wishi\Source\binvis\Backup1\binviz_0.01\FrmByteCloud.resx">
+</Event><Event ErrorLevel="0" Project="binviz_0.05" Source="binviz_0.01\binviz_0.05.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="binviz_0.05" Source="binviz_0.01\binviz_0.05.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="binviz_0.01.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="binviz_0.01.sln" Description="Converted">
+</Event></UpgradeLog>
